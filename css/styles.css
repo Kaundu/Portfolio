@@ -1,0 +1,40 @@
+.name{
+  font-size: 60px;
+  background-color: #8C5D89;
+  color: #322D31;
+  border-color: #000000;
+  border: 5px;
+  border-style: solid;
+
+  }
+.address{
+  font-size: 24px;
+  background-color: #E76FE0;
+  border-color: #000000;
+  border-style: solid;
+  margin-top: 10px;
+}
+body{
+  text-align: center;
+}
+.selfie{
+  margin-top: 25px;
+}
+.column{
+  float: left;
+  width: 24px;
+  margin: 120px;
+  padding: 30px;
+}
+img{
+  width: 350px;
+  height: 350px;
+}
+.about{
+  float: left;
+  margin: 120px;
+}
+.entail{
+  float: left;
+  margin: 120px;
+}
